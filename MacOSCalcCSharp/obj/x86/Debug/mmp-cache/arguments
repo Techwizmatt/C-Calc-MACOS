@@ -1,0 +1,20 @@
+# Version: 5.4.0.64 (HEAD: 9c8d8e0a)
+# [first argument, ignore] # /Library/Frameworks/Xamarin.Mac.framework/Versions/5.4.0.64/lib/mmp/mmp.exe
+/Library/Frameworks/Xamarin.Mac.framework/Versions/5.4.0.64/lib/mmp/mmp.exe \
+	/verbose \
+	/debug \
+	/output:/Users/techwizmatt/RiderProjects/MacOSCalcCSharp/MacOSCalcCSharp/bin/Debug/ \
+	/name:MacOSCalcCSharp \
+	'/profile:Xamarin.Mac,Version=v2.0,Profile=Mobile' \
+	/arch:x86_64 \
+	--http-message-handler=HttpClientHandler \
+	/minos=10.14 \
+	/nolink \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/mscorlib.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/System.Core.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/System.dll \
+	/assembly:/Library/Frameworks/Xamarin.Mac.framework/Versions/Current/lib/mono/Xamarin.Mac/Xamarin.Mac.dll \
+	/root-assembly:/Users/techwizmatt/RiderProjects/MacOSCalcCSharp/MacOSCalcCSharp/bin/Debug/MacOSCalcCSharp.exe \
+	/sdkroot:/Applications/Xcode.app/Contents/Developer \
+	--cache:/Users/techwizmatt/RiderProjects/MacOSCalcCSharp/MacOSCalcCSharp/obj/x86/Debug/mmp-cache \
+	@/Users/techwizmatt/RiderProjects/MacOSCalcCSharp/MacOSCalcCSharp/obj/x86/Debug/response-file.rsp \

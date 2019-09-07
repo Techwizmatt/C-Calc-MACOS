@@ -1,0 +1,13 @@
+/Users/techwizmatt/RiderProjects/MacOSCalcCSharp/MacOSCalcCSharp/bin/Debug/MacOSCalcCSharp.exe
+/Users/techwizmatt/RiderProjects/MacOSCalcCSharp/MacOSCalcCSharp/bin/Debug/MacOSCalcCSharp.pdb
+/Users/techwizmatt/RiderProjects/MacOSCalcCSharp/MacOSCalcCSharp/obj/x86/Debug/actool/_PartialAppManifest.items
+/Users/techwizmatt/RiderProjects/MacOSCalcCSharp/MacOSCalcCSharp/obj/x86/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/techwizmatt/RiderProjects/MacOSCalcCSharp/MacOSCalcCSharp/obj/x86/Debug/ibtool-manifests/Main.storyboardc
+/Users/techwizmatt/RiderProjects/MacOSCalcCSharp/MacOSCalcCSharp/obj/x86/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/techwizmatt/RiderProjects/MacOSCalcCSharp/MacOSCalcCSharp/obj/x86/Debug/ibtool/Main.storyboardc/MainMenu.nib
+/Users/techwizmatt/RiderProjects/MacOSCalcCSharp/MacOSCalcCSharp/obj/x86/Debug/ibtool/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib
+/Users/techwizmatt/RiderProjects/MacOSCalcCSharp/MacOSCalcCSharp/obj/x86/Debug/ibtool/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib
+/Users/techwizmatt/RiderProjects/MacOSCalcCSharp/MacOSCalcCSharp/obj/x86/Debug/MacOSCalcCSharp.csprojAssemblyReference.cache
+/Users/techwizmatt/RiderProjects/MacOSCalcCSharp/MacOSCalcCSharp/obj/x86/Debug/MacOSCalcCSharp.csproj.CoreCompileInputs.cache
+/Users/techwizmatt/RiderProjects/MacOSCalcCSharp/MacOSCalcCSharp/obj/x86/Debug/MacOSCalcCSharp.exe
+/Users/techwizmatt/RiderProjects/MacOSCalcCSharp/MacOSCalcCSharp/obj/x86/Debug/MacOSCalcCSharp.pdb
